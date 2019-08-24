@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Contact",
+            "request": "launch",
+            "mainClass": "contact.Contact",
+            "projectName": "project_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "contact.Person",
+            "projectName": "project_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "contact.App",
+            "projectName": "project_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Phone",
+            "request": "launch",
+            "mainClass": "contact.Phone",
+            "projectName": "project_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Address",
+            "request": "launch",
+            "mainClass": "contact.Address",
+            "projectName": "project_1"
+        }
+    ]
+}
